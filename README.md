@@ -31,3 +31,13 @@ go mod init c2box.go
 go mod tidy
 go build -o c2box c2box.go
 ```
+
+# USAGE
+```
+./c2box -channel "id" -token "token"
+
+```
+
+
+GO TO C2 BOT 
+AND H4CK FOR 4 F4N
